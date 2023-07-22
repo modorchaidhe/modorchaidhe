@@ -1,4 +1,4 @@
-✨ Hi, I'm Maisie Ó Dorchaidhe (full name Margaret)
+✨ Hi, I'm Maisie Ó Dorchaidhe (full name Mairéad)
 
 ✨ I'm a former senior software engineer from AAA games who specialized in low level graphics on console
 
