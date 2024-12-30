@@ -6,7 +6,7 @@
 
 ✨ You can find me at @modorchaidhe on twitter
 
-✨ I used to go by Margaret Dorsey (my anglicized name) professionally, so that's the best way to look up my game credits :)
+✨ I used to go by Margaret Dorsey (my anglicised name) professionally, so that's the best way to look up my game credits :)
 
 <!---
 modorchaidhe/modorchaidhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
